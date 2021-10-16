@@ -161,10 +161,7 @@ h6 {
   margin: 0;
 }
 
-
 /* Intro Section */
-
-
 #intro {
   display: table;
   width: 100%;
@@ -697,13 +694,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
 }
 
-#contact .contact-info i {
-  font-size: 48px;
-  display: inline-block;
-  margin-bottom: 10px;
-  color: #18d26e;
-}
-
 #contact p {
   margin-bottom: 0;
   color: black;
@@ -715,16 +705,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .contact-phone,
 #contact .contact-email {
   margin-bottom: 20px;
-}
-
-#contact .form #sendmessage {
-  color: #18d26e;
-  border: 1px solid #18d26e;
-  display: none;
-  text-align: center;
-  padding: 15px;
-  font-weight: 600;
-  margin-bottom: 15px;
 }
 
 #contact .form input,
